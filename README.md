@@ -1,1 +1,1 @@
-# FizzBuzz done by Noel, Josue and Carlos
+# FizzBuzz by Noel, Josue and Carlos
