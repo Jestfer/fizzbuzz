@@ -9,6 +9,4 @@ def fizzbuzz(number)
     number
   end
 end
-
-# NEEDS MORE COMMENTS!!!
   

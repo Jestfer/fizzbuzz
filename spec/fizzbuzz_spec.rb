@@ -19,6 +19,4 @@ describe 'fizzbuzz' do
   it 'sequence of numbers' do
     (1..20).each {|number| puts "#{number} --> #{fizzbuzz(number)}"}
   end
-
-
 end
